@@ -1,5 +1,5 @@
 // her opretter jeg min server vha. af node.js 
-// jeg installere npm, express og cors, soim jeg bruger til at oprette min server på port 3000
+// jeg installere npm, express og cors, som jeg bruger til at oprette min server på port 3000
 const express = require ('express')
 
 const cors = require('cors')
